@@ -25,7 +25,7 @@ header {
 }
 
 
-/*---------- CONTENT AREA ----------*/
+/*---------- CONTENT AREA -----already built for mobile viewing FIRST-----*/ 
 
 .col-3 {
   width: 100%;
@@ -34,15 +34,15 @@ header {
 }
 
 #column-1 {
-  background: #d5d5d5;
+  background: forestgreen;
 }
 
 #column-2 {
-  background: #d5d5d5;
+  background: orange;
 }
 
 #column-3 {
-  background: #d5d5d5;
+  background: salmon;
 }
 
 
@@ -60,23 +60,23 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color: ;
+    background-color: #6495ED;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: coral;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: cornsilk ;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: cyan;
   }
 
   footer {
-    background-color: ;
+    background-color: crimson;
   }
   
 }
@@ -89,19 +89,19 @@ footer {
   }
 
   #column-1 {
-    background-color: ;
+    background-color: #8b008B;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: #FF8C00 ;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: #8B0000;
   }
 
   footer {
-    background-color: ;
+    background-color: #696969 ;
   }
    
 }
